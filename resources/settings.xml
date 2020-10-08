@@ -44,11 +44,6 @@
 						<close>true</close>
 					</control>
 				</setting>
-				<setting id="sort_init" type="boolean">
-					<default>false</default>
-					<visible>false</visible>
-					<control type="toggle"/>
-				</setting>
 			</group>
 		</category>
 		<category id="apikey" label="30206">
